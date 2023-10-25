@@ -1,0 +1,2 @@
+Allow: /pagina-web-marina.html
+Disallow: ./sitemap.xml
